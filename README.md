@@ -1,8 +1,8 @@
 # University-WEB-Project
 
-##WEB Project about University
+## WEB Project about University
 
-##**Project's Title**
+## **Project's Title**
 
 To design and implement a \WEB system in php for a UNIVERSITY that would store the following information:
 
@@ -23,11 +23,8 @@ Rules:
 The system must be able to implement the following functionalities:
 
 - Input / corrections / deletion of data for each table. (Via HTML Forms)
-- 
 - Search for grades by: student, discipline,
-- 
 - References for:
-- 
 • Аll student data (academic transcript);
 
 • GPA for students per course major, ranked in descending order;
