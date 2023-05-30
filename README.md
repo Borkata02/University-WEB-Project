@@ -7,6 +7,7 @@ To design and implement a \WEB system in php for a UNIVERSITY that would store t
 • Discipline - name, semester, teacher;
 • Grade - student, grade, discipline, date.
 Rules:
+
 • Each student studies more than one discipline and has one grade for each discipline,
 • Each teacher leads more than one discipline.
 The system must be able to implement the following functionalities:
