@@ -1,6 +1,6 @@
 # University-WEB-Project
 WEB Project about University
-** **Project's Title
+**Project's Title
 To design and implement a \WEB system in php for a UNIVERSITY that would store the following information:
 • Student - faculty number, name, major, course, e-mail;
 • Teacher - name, title, telephone, e-mail;
